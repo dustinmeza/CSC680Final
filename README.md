@@ -3,7 +3,7 @@ Project Description:
 I decided to work on this project by myself. 
 This project aims to develop a task tracker that will allow the user to maintain an orderly lifestyle while juggling multiple tasks/activities. I decided to change my project topic from a recipe organizer to this because I felt this was something that would actually be useful in my life, since I both work fulltime and go to school it can get hectic managing all the work I have to do but an app like this could help make that load manageable. 
 
-Note: This app is built to MacOS, a few weeks back i discussed with you how the simulator was not functioning on my laptop and I had tried everything possible. It wouldnt even recognize my phone when i tried to connect via cable. 
+Note: This app is built to MacOS, a few weeks back i discussed with you how the simulator was not functioning on my laptop and I had tried everything possible. It wouldnt even recognize my phone when i tried to connect via cable. Also, my calendar view is not working within the app, but please take a look at it in preview - im pretty frustrated because its a feature i wanted to get up and running badly. 
 
 Must-Have Features:
 
